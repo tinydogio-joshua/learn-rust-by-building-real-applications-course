@@ -1,0 +1,1 @@
+/Users/joshua/Development/tutorials/learn-rust-by-building-real-applications/mars_calc/target/debug/mars_calc: /Users/joshua/Development/tutorials/learn-rust-by-building-real-applications/mars_calc/src/main.rs

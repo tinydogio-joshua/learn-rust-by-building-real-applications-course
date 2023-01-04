@@ -1,3 +1,5 @@
+#![allow(unused)]
+
 use http::Method;
 use http::Request;
 use server::Server;
